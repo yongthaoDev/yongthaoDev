@@ -40,12 +40,10 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              'ພວກເຮົາສາມາດຮຽນຮູ້ໄດ້ຖ້າຫາກມີຄົນສອນທີ່ເກັ້ງ', style: TextStyle(color: Colors.red),
+              'test progammer', style: TextStyle(color: Colors.red),
             ),
             
-             TextField(
-                
-             )
+             
           ],
         ),
       ),
